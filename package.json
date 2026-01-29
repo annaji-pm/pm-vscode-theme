@@ -1,0 +1,43 @@
+{
+  "name": "policyme-theme",
+  "displayName": "PolicyMe Theme",
+  "description": "PolicyMe rebrand colors for VS Code and Cursor - an in-house developer theme",
+  "version": "1.1.0",
+  "publisher": "policyme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "policyme",
+    "light",
+    "dark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/policymedev/pm_vscode_theme"
+  },
+  "galleryBanner": {
+    "color": "#fbf9f6",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "PolicyMe Light",
+        "uiTheme": "vs",
+        "path": "./themes/policyme-light-color-theme.json"
+      },
+      {
+        "label": "PolicyMe Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/policyme-dark-color-theme.json"
+      }
+    ]
+  }
+}
