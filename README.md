@@ -2,7 +2,7 @@
 
 A VS Code color theme based on PolicyMe's rebrand design system. Built for in-house developer use.
 
-![PolicyMe Light Theme](https://via.placeholder.com/800x500/fbf9f6/455326?text=PolicyMe+Light+Theme)
+![PolicyMe Theme](https://img.shields.io/badge/PolicyMe-VS_Code_Theme-455326?style=for-the-badge&labelColor=fbf9f6)
 
 ## Features
 
@@ -17,20 +17,20 @@ A VS Code color theme based on PolicyMe's rebrand design system. Built for in-ho
 ### Light Theme
 | Element | Color | Hex |
 |---------|-------|-----|
-| Primary Green | ![#455326](https://via.placeholder.com/15/455326/455326?text=+) | `#455326` |
-| Accent Orange | ![#a84300](https://via.placeholder.com/15/a84300/a84300?text=+) | `#a84300` |
-| Background | ![#fbf9f6](https://via.placeholder.com/15/fbf9f6/fbf9f6?text=+) | `#fbf9f6` |
-| Text | ![#30332a](https://via.placeholder.com/15/30332a/30332a?text=+) | `#30332a` |
-| Error | ![#db2200](https://via.placeholder.com/15/db2200/db2200?text=+) | `#db2200` |
+| Primary Green | ![#455326](https://img.shields.io/badge/-%23455326-455326) | `#455326` |
+| Accent Orange | ![#a84300](https://img.shields.io/badge/-%23a84300-a84300) | `#a84300` |
+| Background | ![#fbf9f6](https://img.shields.io/badge/-%23fbf9f6-fbf9f6) | `#fbf9f6` |
+| Text | ![#30332a](https://img.shields.io/badge/-%2330332a-30332a) | `#30332a` |
+| Error | ![#db2200](https://img.shields.io/badge/-%23db2200-db2200) | `#db2200` |
 
 ### Dark Theme
 | Element | Color | Hex |
 |---------|-------|-----|
-| Primary Green | ![#9ec46a](https://via.placeholder.com/15/9ec46a/9ec46a?text=+) | `#9ec46a` |
-| Accent Orange | ![#ffb850](https://via.placeholder.com/15/ffb850/ffb850?text=+) | `#ffb850` |
-| Background | ![#1a1d16](https://via.placeholder.com/15/1a1d16/1a1d16?text=+) | `#1a1d16` |
-| Text | ![#e8e8e4](https://via.placeholder.com/15/e8e8e4/e8e8e4?text=+) | `#e8e8e4` |
-| Error | ![#ff6b4a](https://via.placeholder.com/15/ff6b4a/ff6b4a?text=+) | `#ff6b4a` |
+| Primary Green | ![#9ec46a](https://img.shields.io/badge/-%239ec46a-9ec46a) | `#9ec46a` |
+| Accent Orange | ![#ffb850](https://img.shields.io/badge/-%23ffb850-ffb850) | `#ffb850` |
+| Background | ![#1a1d16](https://img.shields.io/badge/-%231a1d16-1a1d16) | `#1a1d16` |
+| Text | ![#e8e8e4](https://img.shields.io/badge/-%23e8e8e4-e8e8e4) | `#e8e8e4` |
+| Error | ![#ff6b4a](https://img.shields.io/badge/-%23ff6b4a-ff6b4a) | `#ff6b4a` |
 
 ## Installation
 
